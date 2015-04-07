@@ -21,7 +21,7 @@
 }
 
 //Craig changed this file
-//Daniel added a comment.
+//Daniel added a comment
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
