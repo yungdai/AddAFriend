@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+//Craig changed this file
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
