@@ -20,6 +20,7 @@
 }
 
 //adding comments
+//congrats, we've completed the project!
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
